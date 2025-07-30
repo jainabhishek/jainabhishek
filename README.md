@@ -13,8 +13,8 @@
 ```python
 class AbhishekJain:
     def __init__(self):
-        self.role = "Development Manager II @ Branding Brand"
-        self.location = "Pittsburgh, PA 🇺🇸"
+        self.role = "Builder looking for opportunites"
+        self.location = "Chicago, IL 🇺🇸"
         self.experience = "10+ years"
         self.passion = "Building AI-powered solutions that scale"
         
@@ -129,12 +129,12 @@ graph LR
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jainabahishek&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jainabahishek&layout=compact&langs_count=8&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jainabhishek&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jainabhishek&layout=compact&langs_count=8&theme=radical"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jainabahishek&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jainabhishek&theme=radical" alt="GitHub Streak"/>
 </div>
 
 ## 🎯 Current Focus Areas
