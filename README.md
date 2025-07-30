@@ -4,9 +4,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EFF&center=true&vCenter=true&width=435&lines=AI%2FML+Engineering+Leader;Full-Stack+Developer;10%2B+Years+Experience;Former+CTO+%26+Co-founder;Building+AI-Powered+Solutions)](https://git.io/typing-svg)
 
+<div align="center">
+  <img alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+</div>
 
 ## 🚀 About Me
 
